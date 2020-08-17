@@ -48,7 +48,7 @@
     "@thebespokepixel/meta": "^2.0.3",
     "@thebespokepixel/string": "^1.0.1",
     "common-tags": "^1.8.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "mdast-util-inject": "^1.1.0",
     "pkg-conf": "^3.1.0",
     "read-pkg-up": "^7.0.1",
