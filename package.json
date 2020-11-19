@@ -62,7 +62,7 @@
     "update-notifier": "^4.1.0",
     "urlencode": "^1.1.0",
     "verbosity": "^2.0.1",
-    "yargs": "^15.4.1"
+    "yargs": "^16.0.0"
   },
   "devDependencies": {
     "@ava/babel": "^1.0.1",
